@@ -1,0 +1,7 @@
+# Data
+data/images/
+
+# Embeddings & Models
+*.npy
+*.pkl
+*.joblib
